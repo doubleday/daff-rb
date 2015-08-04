@@ -1,7 +1,7 @@
 daff: data diff
 ===============
 
-This is a ruby build (version 1.2.8 at the time of writing) of the daff library form https://github.com/paulfitz/daff.
+This is a ruby build (version 1.2.6 at the time of writing) of the daff library form https://github.com/paulfitz/daff.
 
 This includes a small patch in daff.rb
 
